@@ -4,7 +4,7 @@
 
 I am Software Developer with excellent problem solving skills and ability to perform we in teams. Passionate about coding and learning technology.
 
-Skills: REACT / Express.js / Nest.js / Web Scraping / Microservices / JS / HTML / CSS / Python 
+Skills: REACT / Express.js / Nest.js / Web Scraping / Microservices / JS / HTML / CSS / Python / Puppeteer / Postgres / SQL
 
 - 🔭 I’m currently working on software project that will help be become a good developer  
 - 🌱 I’m currently learning MERN Stack, System Design, Data Structures and Algorithms 
