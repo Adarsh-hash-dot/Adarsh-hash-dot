@@ -4,6 +4,8 @@
 
 I am Software Developer with excellent problem solving skills and ability to perform we in teams. Passionate about coding and learning technology.
 
+I have 2+ years of software development experience, Edu-tech startup and AI service based company
+
 Skills: REACT / Express.js / Nest.js / Web Scraping / Microservices / JS / HTML / CSS / Python / Puppeteer / Postgres / SQL
 
 - 🔭 I’m currently working on software project that will help be become a good developer  
